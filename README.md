@@ -47,6 +47,4 @@ make clean     # 🧹
 
 🚧 **The first experiments are coming soon.** ⭐ Star or watch to follow along.
 
-Built by [Yogesh Rautela](https://www.linkedin.com/in/yogesh-rautela-895655221)
-
 </div>
