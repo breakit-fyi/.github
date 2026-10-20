@@ -47,4 +47,6 @@ make clean     # 🧹
 
 🚧 **The first experiments are coming soon.** ⭐ Star or watch to follow along.
 
+Built by **Shiwang** and **[Yogesh Rautela](https://www.linkedin.com/in/yogesh-rautela-895655221)**, two DevOps engineers.
+
 </div>
